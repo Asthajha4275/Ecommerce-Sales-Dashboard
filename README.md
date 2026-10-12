@@ -110,6 +110,9 @@ Drew the insights below and saved the workbook as a `.twbx` so it opens with the
 Tableau KPI cards · LOD expressions · YTD vs PYTD analysis · Calculated fields · Dashboard design · Business insight generation
 
 ---
+## Architecture Diagram
+![E-commerce Architecture](diagram%20(4).png)
+
 
 **Author:** Astha Kumari Jha
 **GitHub:** [github.com/Asthajha4275](https://github.com/Asthajha4275)
